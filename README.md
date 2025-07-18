@@ -1,70 +1,67 @@
-<!-- Heading with waving hand animation -->
+<!-- GitHub Profile README by Drippta Dutta -->
+
 <h1 align="center">
-  Hi there, I'm Drippta Dutta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"/>
+  Hi there, I'm Drippta Dutta 👋
 </h1>
 
-<p align="center">
-  <em>Computer Science Graduate | Machine Learning Enthusiast | Full Stack Developer</em>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coder animated gif"/>
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Passionate about building scalable and efficient machine learning models & web applications
-- 🧠 Skilled in **C++**, **Python**, **SQL**, and solid core CS concepts (DSA, OOP, DBMS, Networks)
-- 🌱 Currently exploring advanced ML algorithms and full-stack development best practices
-- 🌟 Resilient, collaborative, and a great problem solver
+🎓 A **Computer Science graduate** passionate about building scalable, efficient solutions to real-world problems.
 
----
+💡 Experienced in creating **machine learning models** and **full-stack web applications**.
 
-## 🛠️ Skills & Tools
-
-| Languages           | Frameworks / Libraries  | Web Technologies      | Databases       | Developer Tools         |
-|---------------------|------------------------|----------------------|-----------------|-------------------------|
-| C++, Python, SQL    | Pandas, Numpy, Scikit-Learn | HTML5, CSS3, JavaScript | MongoDB, MySQL  | Git, GitHub, VS Code, Jupyter Notebook |
+💬 Resilient, curious, and always eager to learn and collaborate to solve complex challenges.
 
 ---
 
-## 📂 Projects
+## 🛠️ Tech Stack
 
-### Heart Disease Predictor <sup>⭐️⭐️⭐️</sup>
-- Built a predictive ML model to assess cardiovascular risks using Python
-- Algorithms: Logistic Regression, Random Forest, KNN, Decision Tree
-- Achieved **83% accuracy**
-- Tools: Anaconda, Jupyter Notebook, Scikit-learn, Pandas, Matplotlib, Seaborn
-
-### Health Tracking Website <sup>⭐️⭐️⭐️</sup>
-- Developed a user-friendly health tracking platform with inputs for water intake, calories, steps
-- Implemented secure user authentication and intuitive UI
-- Built using **HTML5**, **CSS3**, **JavaScript**
+| Category           | Tools / Technologies                                                                 |
+|--------------------|----------------------------------------------------------------------------------------|
+| 👨‍💻 Languages      | C++, Python, SQL                                                                       |
+| 📚 Frameworks & Libs| Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn                                      |
+| 🌐 Web Technologies| HTML5, CSS3, JavaScript                                                                |
+| 🗄️ Databases       | MongoDB, MySQL                                                                         |
+| 🧰 Dev Tools       | Git, GitHub, VS Code, Jupyter Notebook                                                 |
+| 🧠 CS Concepts     | Data Structures & Algorithms, OOP, OS, Networks, DBMS                                  |
 
 ---
 
-## 🎓 Education
+## 🧠 Soft Skills & Interests
 
-**Asansol Engineering College**  
-*B.Tech in Computer Science & Engineering* | CGPA: 8.70  
-July 2020 - July 2024
-
----
-
-## 📚 Certifications
-
-- HTML, CSS and Javascript for Web Developers [Coursera]  
-- Programming for Everybody (Getting Started with Python) [Coursera]  
-- Introduction to Data Science in Python [Coursera]  
-- Python Data Structure [Coursera]
+- 🔹 Strong Communication  
+- 🔹 Team Coordination & Decision Making  
+- 🔹 Analytical Thinking & Problem Solving  
+- 🔹 Patience & Resilience  
+- 🔹 Reading Technology Blogs  
 
 ---
 
-## 🚀 Let’s Connect!
+## 🏅 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dripptadutta)  
-📧 dripptadutta@gmail.com | 📞 +91-9635097728
+- [HTML, CSS and Javascript for Web Developers](#) – *Coursera*  
+- [Programming for Everybody (Python)](#) – *Coursera*  
+- [Introduction to Data Science in Python](#) – *Coursera*  
+- [Python Data Structures](#) – *Coursera*  
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Drippta%20Dutta-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dripptadutta)  
+📧 dripptadutta@gmail.com  
+📱 +91-9635097728
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dripptadutta&show_icons=true&theme=radical" alt="Drippta's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dripptadutta&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+
+> *“Passionate about tech, driven by curiosity. Let's build something awesome together!”*
